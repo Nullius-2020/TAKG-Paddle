@@ -1,5 +1,5 @@
 # TAKG
-The official implementation of ACL 2019 paper "[**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language](https://www.aclweb.org/anthology/P19-1240)" (**TAKG**).
+The Paddle implementation of ACL 2019 paper "[**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language](https://www.aclweb.org/anthology/P19-1240)" (**TAKG**).
 This is a joint work with [NLP Center at Tencent AI Lab](https://ai.tencent.com/ailab/nlp/). Some scripts for drawing figures in the paper can be found [here](https://github.com/yuewang-cuhk/DrawFigureForPaper).
 
 
